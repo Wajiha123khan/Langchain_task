@@ -1,0 +1,26 @@
+# Core pipeline
+langchain
+
+# Extra integrations
+langchain-community
+
+# HuggingFace embeddings LangChain ke saath
+langchain-huggingface
+
+# OpenAI LangChain ke saath
+langchain-openai
+
+# HuggingFace se models download
+huggingface-hub
+
+# Embedding model run karne ke liye
+sentence-transformers
+
+# Vector store (numbers store karta hai locally)
+faiss-cpu
+
+# OpenAI API
+openai
+
+# API keys .env file se load karne ke liye
+python-dotenv
